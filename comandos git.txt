@@ -1,0 +1,14 @@
+Com o git instalado abra o cmd ou clique com o direito do mouse e selecione git bash here
+
+Para trazer do github para o computador
+clone a pasta: git clone https://github.com/anielsonrf/cursohcodephp7.git
+--------------------
+Para enviar para o github
+Coloque o que foi mudado na "sala de espera": 
+git add --all
+--------------------
+De um comite nas mudanças com aguma observaçao que queira:
+git commit -m "Manual básico de uso do git"
+--------------------
+Empurrar a sala de espera para o github:
+git push origin master
