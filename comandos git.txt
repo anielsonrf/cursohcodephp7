@@ -1,5 +1,8 @@
 Com o git instalado abra o cmd ou clique com o direito do mouse e selecione git bash here
 
+Para adicionar o endereço de origem:
+git remote add origin https://github.com/anielsonrf/cursohcodephp7.git
+
 Para trazer do github para o computador
 clone a pasta: git clone https://github.com/anielsonrf/cursohcodephp7.git
 --------------------
