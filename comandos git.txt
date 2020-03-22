@@ -6,6 +6,9 @@ git remote add origin https://github.com/anielsonrf/cursohcodephp7.git
 Para trazer do github para o computador
 clone a pasta: git clone https://github.com/anielsonrf/cursohcodephp7.git
 --------------------
+Para atualizar os arquivos com o que está no GitHub:
+git pull origin master
+--------------------
 Para enviar para o github
 Coloque o que foi mudado na "sala de espera": 
 git add --all
